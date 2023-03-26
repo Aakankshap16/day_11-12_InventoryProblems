@@ -1,0 +1,29 @@
+{
+
+
+  "Stock1": [
+    {
+      "StockNames": "TCS",
+      "NumberofShare": 6,
+      "SharePrice": 520
+    }
+  ],
+
+
+  "Stock2": [
+    {
+      "StockNames": "INFOSYS",
+      "NumberofShare": 5,
+      "SharePrice": 700
+    }
+  ],
+
+
+  "Stock3": [
+    {
+      "StockNames": "GOOGLE",
+      "NumberofShare": 4,
+      "SharePrice": 1000
+    }
+  ]
+}

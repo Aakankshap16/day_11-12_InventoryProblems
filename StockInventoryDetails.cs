@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace InventoryMangement
 {
+      //GIVE STRUCTURE TO JSON FILE
     public class StockInventoryDetails
     {
         public List<Stock1> stock1;
